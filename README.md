@@ -1,1 +1,1 @@
-# fiji-ui
+# fiji-ui (Monorepo for Web and Mobile)
